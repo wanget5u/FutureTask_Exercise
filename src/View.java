@@ -149,7 +149,7 @@ public class View
         frame = new JFrame();
         frame.setSize(1280, 720);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setTitle("UTP10_GM_S31230");
+        frame.setTitle("FutureTask Exercise");
         frame.setLocationRelativeTo(null);
 
         addComponents();
